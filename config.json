@@ -1,8 +1,7 @@
 {
   "host": "localhost",
   "user": "postgres",
-  "password": "pufarina",
-
+  "password": "cHVmYXJpbmE=",
   "database": "itschool",
   "port": "5432"
 }
